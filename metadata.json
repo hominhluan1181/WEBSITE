@@ -1,0 +1,7 @@
+{
+  "name": "EduHarness 5512 & 7991 - Studio Chuyển Đổi Số Giáo Dục Phổ Thông",
+  "description": "Nền tảng chuyển đổi số giáo dục chuẩn Công văn 5512/BGDĐT-GDTrH và Công văn 7991/BGDĐT-GDTrH: Soạn KHBD 4 hoạt động, Slide giảng dạy tương tác, Thiết kế Ma trận & Đề thi 4 phần chuẩn 10.0 điểm, xuất bản Word/PowerPoint.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+

@@ -1,0 +1,24 @@
+@import "tailwindcss";
+
+@layer base {
+  body {
+    font-family: 'Be Vietnam Pro', -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+  }
+  
+  /* Print Optimization for Formal Academic Documents (Công văn 5512 & 7991) */
+  @media print {
+    body {
+      background: white !important;
+      color: black !important;
+    }
+    .no-print {
+      display: none !important;
+    }
+    .print-only {
+      display: block !important;
+    }
+    .print-page-break {
+      page-break-before: always;
+    }
+  }
+}
